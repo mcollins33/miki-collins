@@ -1,0 +1,18 @@
+.about {
+  padding: 64px 0 96px; }
+  .about h1 {
+    font-family: "Cookie", cursive;
+    font-size: 72px;
+    text-align: center;
+    color: #254F5F; }
+  .about p {
+    font-family: #809299;
+    font-size: 20px;
+    color: #4a4a4a; }
+  .about .border {
+    width: 125px;
+    border: 2px solid #254F5F;
+    margin: auto;
+    margin-bottom: 48px; }
+  .about .mypic {
+    box-shadow: 1px 1px 1px 1px #181a19; }

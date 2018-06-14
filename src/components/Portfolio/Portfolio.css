@@ -1,0 +1,34 @@
+.portfolio-background {
+  background-color: #254F5F; }
+
+.portfolio {
+  padding: 64px 0px; }
+  .portfolio h1 {
+    font-family: "Cookie", cursive;
+    font-size: 72px;
+    text-align: center;
+    color: white; }
+  .portfolio h2 {
+    font-family: "Raleway", sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    color: #254F5F;
+    margin-top: 24px; }
+  .portfolio p {
+    font-family: #809299;
+    font-weight: bold;
+    color: #4a4a4a;
+    padding-top: 64px;
+    padding-bottom: 96px; }
+  .portfolio .wrap {
+    flex-wrap: wrap; }
+  .portfolio .portfolio-image {
+    margin: 10px; }
+  .portfolio .box {
+    border: 15px solid #254F5F;
+    box-shadow: none !important; }
+  .portfolio .border {
+    width: 125px;
+    border: 2px solid white;
+    margin: auto;
+    margin-bottom: 48px; }

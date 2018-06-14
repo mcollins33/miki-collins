@@ -1,0 +1,22 @@
+.contact-background {
+  background-color: #181a19; }
+
+.icon {
+  color: white;
+  margin-left: 20px;
+  margin-right: 20px; }
+
+.contact {
+  padding: 64px 0px 16px; }
+  .contact h1 {
+    font-family: "Cookie", cursive;
+    font-size: 72px;
+    text-align: center;
+    color: white; }
+  .contact .border {
+    width: 125px;
+    border: 2px solid white;
+    margin: auto;
+    margin-bottom: 48px; }
+  .contact .copy {
+    margin-top: 48px; }
