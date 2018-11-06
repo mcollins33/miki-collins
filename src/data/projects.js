@@ -12,7 +12,7 @@ var projects = [{
 },
 {
     "name": "Friday Night Roulette",
-    "link": "https://stevensammon.github.io/friday-night/",
+    "link": "https://mcollins33.github.io/friday/",
     "image": "friday.jpg",
     "desc": "This application provides users with a unique and entertaining way to plan their Friday night. Through a series of questions, this app will elicit the information that correlates to the search parameters in the EatStreet and Edamam APIs. The app provides the user with either a restaurant or recipe recommendation and an activity. This was a group project. My role was front end developer. This application utilizes the following: HTML, CSS, Bootstrap, AJAX, Eatstreet & Edamam APIs, JQuery, and Javascript."
 },

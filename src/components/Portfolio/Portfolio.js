@@ -29,7 +29,7 @@ componentDidMount() {
                                             </a>
                                         </div>
                                         <h2 className="title has-text-centered is-hidden-mobile">{this.state.projects[item].name}</h2>
-                                        <div className="is-hidden-mobile">{this.state.projects[item].desc}</div>
+                                        <div className="is-hidden-mobile padding-5">{this.state.projects[item].desc}</div>
                                     </div>
                                 ))}
                         </div>

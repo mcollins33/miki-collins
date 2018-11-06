@@ -16,6 +16,7 @@ const Contact = () => {
                         <a className="icon" href="https://mikicollins.wordpress.com/"><i className="fab fa-3x fa-wordpress"></i></a>
                         <a className="icon" href="https://twitter.com/MikiCollins4"><i className="fab fa-3x fa-twitter"></i></a>
                         <a className="icon" href="https://www.hackerrank.com/collins_miki"><i className="fas fa-3x fa-h-square"></i></a>
+
                     </div>
                     <div className="copy has-text-centered">
                         <p>© 2018 Miki Collins</p>
