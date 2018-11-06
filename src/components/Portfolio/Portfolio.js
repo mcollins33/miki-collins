@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import './Portfolio.css';
-import axios from 'axios';
 import Projects from '../../data/projects.js';
 
 class Portfolio extends Component {
